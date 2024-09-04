@@ -7,4 +7,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 5000
 
-CMD ["python", "app.py"]  # asta este procesul care ruleaza cand creez containerul
+CMD ["python", "app.py"]  #asta este procesul care ruleaza cand creez containerul
